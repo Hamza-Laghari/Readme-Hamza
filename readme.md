@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Hamza&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsaim&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -58,7 +58,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; I enjoy programming and creating aesthicaly pleasing web applications <br/><br/>
+ ✌️ &emsp; I enjoy programming and creating aesthetically pleasing web applications <br/><br/>
  ❤️ &emsp; Love to code and I try to improve my skillset<br/><br/>
  📧 &emsp; Reach me anytime at : itsmehamza74@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Hamza-Laghari/Readme-Hamza/issues) 
