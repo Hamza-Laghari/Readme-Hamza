@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Hamza&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -58,10 +58,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming <br/><br/>
- ❤️ &emsp; Love to code and improve my skillset<br/><br/>
- 📧 &emsp; Reach me anytime: itsmehamza74@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here]((https://github.com/Hamza-Laghari/Readme-Hamza/issues))
+ ✌️ &emsp; I enjoy programming and creating aesthicaly pleasing web applications <br/><br/>
+ ❤️ &emsp; Love to code and I try to improve my skillset<br/><br/>
+ 📧 &emsp; Reach me anytime at : itsmehamza74@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Hamza-Laghari/Readme-Hamza/issues) 
 
 </p>
 
@@ -69,7 +69,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## My Coding arsenal
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
